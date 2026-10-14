@@ -6,7 +6,8 @@ The goal is to transform raw data into meaningful insights through an interactiv
 
 The project demonstrates data cleaning, data modeling, analytical calculations, and data visualization using Microsoft Power BI.
 
-<img src="https://github.com/MaksymYakushev/smartphone-addiction-analysis/blob/main/images/project-preview/preview.gif" width="900" height="650">
+<img src="./images/project-preview/smartphone_addiction_dashboard_preview.jpg" width="1600" height="900">
+
 
 ## Project Overview
 
@@ -83,7 +84,7 @@ The dashboard consists of four analytical sections:
 
 ## Additional Useful Links
 
-project: [click here](./docs/power_bi/power_bi_smartphone_addiction.pbix)   
-project .pdf: [click here](./docs/deliverables/smartphone_addiction_dashboard.pdf)   
-.csv dataset: [click here](./docs/data/processed/smartphone_addiction_cleaned.csv).  
-.sql scripts: [click here](./docs/data/outputs/sql)
+project: [click here](./power_bi/power_bi_smartphone_addiction.pbix)   
+project .pdf: [click here](./deliverables/smartphone_addiction_dashboard.pdf)   
+.csv dataset: [click here](./data/processed/smartphone_addiction_cleaned.csv).  
+.sql scripts: [click here](./data/outputs/sql)
